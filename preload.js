@@ -1,7 +1,7 @@
 var imgs = []
 
 function preload() {
-    imgs.push( loadImage('img/background.jpg') );
-    imgs.push( loadImage('img/ship.png') );
+    imgs.push( loadImage('background.jpg') );
+    imgs.push( loadImage('ship.png') );
     
 }
